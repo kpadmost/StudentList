@@ -1,0 +1,16 @@
+c:\users\konstantin\documents\visual studio 2013\Projects\StudentList\StudentList\bin\Debug\StudentList.exe.config
+C:\Users\Konstantin\Documents\Visual Studio 2013\Projects\StudentList\StudentList\bin\Debug\StudentList.exe
+C:\Users\Konstantin\Documents\Visual Studio 2013\Projects\StudentList\StudentList\bin\Debug\StudentList.pdb
+C:\Users\Konstantin\Documents\Visual Studio 2013\Projects\StudentList\StudentList\obj\Debug\StudentList.csprojResolveAssemblyReference.cache
+C:\Users\Konstantin\Documents\Visual Studio 2013\Projects\StudentList\StudentList\obj\Debug\MainWindow.baml
+C:\Users\Konstantin\Documents\Visual Studio 2013\Projects\StudentList\StudentList\obj\Debug\MainWindow.g.cs
+C:\Users\Konstantin\Documents\Visual Studio 2013\Projects\StudentList\StudentList\obj\Debug\App.g.cs
+C:\Users\Konstantin\Documents\Visual Studio 2013\Projects\StudentList\StudentList\obj\Debug\StudentList_MarkupCompile.cache
+C:\Users\Konstantin\Documents\Visual Studio 2013\Projects\StudentList\StudentList\obj\Debug\StudentList.g.resources
+C:\Users\Konstantin\Documents\Visual Studio 2013\Projects\StudentList\StudentList\obj\Debug\StudentList.Properties.Resources.resources
+C:\Users\Konstantin\Documents\Visual Studio 2013\Projects\StudentList\StudentList\obj\Debug\StudentList.csproj.GenerateResource.Cache
+C:\Users\Konstantin\Documents\Visual Studio 2013\Projects\StudentList\StudentList\obj\Debug\StudentList.exe
+C:\Users\Konstantin\Documents\Visual Studio 2013\Projects\StudentList\StudentList\obj\Debug\StudentList.pdb
+C:\Users\Konstantin\Documents\Visual Studio 2013\Projects\StudentList\StudentList\obj\Debug\StudentsList.Properties.Resources.resources
+C:\Users\Konstantin\Documents\Visual Studio 2013\Projects\StudentList\StudentList\obj\Debug\View\MainWindow.baml
+C:\Users\Konstantin\Documents\Visual Studio 2013\Projects\StudentList\StudentList\obj\Debug\View\MainWindow.g.cs
